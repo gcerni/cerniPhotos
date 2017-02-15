@@ -1,2 +1,0 @@
-# cerniPhotos
-CerniPhotos website
